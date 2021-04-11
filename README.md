@@ -12,4 +12,4 @@
 ## 更改后：
 ![Image text](https://github.com/f0ng/shiro_attack_https/blob/main/FAF45F96-BCCB-4FA5-A3C1-B96FF4AF9856.png?raw=true)
 
-# 可能不是很完美，自己也没测试有漏洞的https站，因为看到好多人在问https的问题，就小小的修改了一下，另外，j1anFen师傅牛逼！！！
+# 可能不是很完美，自己也没测试有漏洞的https站，因为看到好多人在问https的问题，就小小的修改了一下，weblogic.jar的问题，找了一个，不知道是不是。另外，j1anFen师傅牛逼！！！
